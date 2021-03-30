@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Gincioks
+- 👋 Gintaras Ružauskas
 - 👀 Html/CSS/JS/TypeScript/Java/Python/React/Android/Laravel
 - 📫 Reach me on email: ruzauskas.gintaras@gmail.com
